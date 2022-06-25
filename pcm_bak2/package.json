@@ -34,7 +34,7 @@
         "highcharts": "^6.1.1",
         "install": "^0.12.2",
         "js-cookie": "2.2.0",
-        "jsrsasign": "^8.0.12",
+        "jsrsasign": "^10.5.25",
         "npm": "^6.9.0",
         "nprogress": "0.2.0",
         "vue-highcharts": "0.0.10",
